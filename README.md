@@ -38,5 +38,21 @@ Deploy with:
 gh-pages -d public -b main
 ```
 
+To push to username.github.io with `gh-pages`:
+```
+git remote add gh-pages git@github.com:username/username.github.io.git
+```
+
+Verify with:
+```
+git remote -v
+```
+
+Deploy with:
+```
+gh-pages -d public -r git@github.com:username/username.github.io.git -b main
+```
+
+
 # Credit
 Thanks to [Brittany Chiang](https://brittanychiang.com/) for the inspiration for this website. Her fourth version was a great starting point. Awesome work!
