@@ -33,10 +33,6 @@ Install with:
 npm install -g gh-pages --save-dev
 ```
 
-Deploy with:
-```
-gh-pages -d public -b main
-```
 
 To push to username.github.io with `gh-pages`:
 ```
