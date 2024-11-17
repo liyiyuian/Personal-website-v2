@@ -136,22 +136,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, I'm Ian (Yi-Yuan) Lee, a Ph.D. candidate at Cornell University.
-              My research focuses on developing deep learning algorithms for 
-              studying cross-species protein-protein interactions,
-              and single-cell RNA sequencing analysis with Professor{' '}
+              Hi, I'm Ian, a Ph.D. candidate, CVG Distinguished Scholar and Life Sciences Techonology Innovation Fellow at Cornell University.
+              My research focuses on developing deep learning algorithms in
+              cross-species protein-protein interactions, and single-cell RNA sequencing analysis with Professor{' '}
               <a href='https://www.britolab.org/'>Ilana Brito</a>.
             </p>
             <p>
               During my master's training at Carnegie Mellon University,{' '}
-              I had the honor of working with Professor{' '}
-              <a href='https://mohimanilab.cbd.cmu.edu/'>Hosein Mohimani</a>{' '}
-              and published a first-author paper,{' '}
+              I published a first-author paper,{' '}
               <a href='https://www.nature.com/articles/s41467-023-39905-4'>HypoRiPPAtlas</a>,{' '}
-              on <i>Nature Communications, 2023</i>.
+              on <i>Nature Communications, 2023</i> with Professor{' '}
+              <a href='https://mohimanilab.cbd.cmu.edu/'>Hosein Mohimani</a>.
             </p>
             <p>
-              Proudly born and raised in Taiwan, I obtained my B.S. in Biochemistry at National Taiwan University.
+              Proudly born and raised in Taiwan 🇹🇼, I obtained my B.S. in Biochemistry at National Taiwan University.
             </p>
             <p>
               I believe deep learning and computational modeling are the most exciting techniques

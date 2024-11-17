@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am currently pursuing my Ph.D. and seeking Co-Op or summer intern opportunities in 2024/2025. Planned 
-        graduation date is 2025, followed by an industry position. If you have potential openings or know of suitable
+        I am currently pursuing my Ph.D. and seeking Co-Op or summer intern opportunities in 2025. Planned 
+        graduation date is 2026, followed by an industry position. If you have potential openings or know of suitable
         organizations, please reach out via email. I'm eager to explore opportunities and contribute to your success.
       </p>
 

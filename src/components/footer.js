@@ -121,6 +121,12 @@ const Footer = () => {
             </div>
           )}
         </a>
+    
+        <div>
+          <span>
+            Updated: 11.17.2024
+          </span>
+        </div>
       </StyledCredit>
     </StyledFooter>
   );
