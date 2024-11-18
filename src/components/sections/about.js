@@ -126,7 +126,7 @@ const About = () => {
   }, []);
 
   // const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
-  const skills = ['Python/PyTorch/R', 'C/C++/Rust', 'Bash/AWK', 'VIM \u2665 \u2665 \u2665', 'Latex/Markdown \u2665 \u2665 \u2665'];
+  const skills = ['Python/PyTorch/R', 'C/C++/Rust', 'Bash/AWK', 'NeoVIM \u2665', 'Latex/Markdown \u2665'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,25 +136,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, I'm Ian, a Ph.D. candidate, CVG Distinguished Scholar and Life Sciences Techonology Innovation Fellow at Cornell University.
+              Hi, I'm Ian (Hokkien: Lí I̍k-uán; Mandarin: Yi-Yuan Lee), proudly born and raised in Taiwan 🇹🇼.
+            </p>
+            <p>
               My research focuses on developing deep learning algorithms in
-              cross-species protein-protein interactions, and single-cell RNA sequencing analysis with Professor{' '}
+              biomarker-drug discovery through cross-species protein-protein interactions, and single-cell RNA sequencing analysis with Professor{' '}
               <a href='https://www.britolab.org/'>Ilana Brito</a>.
             </p>
             <p>
-              During my master's training at Carnegie Mellon University,{' '}
-              I published a first-author paper,{' '}
-              <a href='https://www.nature.com/articles/s41467-023-39905-4'>HypoRiPPAtlas</a>,{' '}
-              on <i>Nature Communications, 2023</i> with Professor{' '}
-              <a href='https://mohimanilab.cbd.cmu.edu/'>Hosein Mohimani</a>.
+              Research needs to extend beyond the lab to make real-world impact. I am committed to a venture of translating our findings.
             </p>
             <p>
-              Proudly born and raised in Taiwan 🇹🇼, I obtained my B.S. in Biochemistry at National Taiwan University.
+              In my previous work with Professor{' '} <a href='https://mohimanilab.cbd.cmu.edu/'>Hosein Mohimani</a> at Carnegie Mellon University,               
+              I developed a computational platform in discovery bioactive natural products. (<a href='https://www.nature.com/articles/s41467-023-39905-4'>HypoRiPPAtlas</a>, <i>Nature Communications, 2023</i>)
             </p>
             <p>
               I believe deep learning and computational modeling are the most exciting techniques
-              that can push the boundary of biomedical research towards a new horizon.
-              Analyzing complex multi-omics datasets will be the next game-changer in healthcare.
+              that can push the boundary of biomedical research towards a new horizon, and it will be the next game-changer in healthcare.
             </p>
             <p>Here are tools I use and LOVE for research:</p>
           </div>

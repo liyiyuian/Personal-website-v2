@@ -66,8 +66,9 @@ const Hero = () => {
     <>
       <p>
         I'm a Ph.D. candidate in{' '}
-        <a href="https://medium.com/@CompXBio/what-is-computational-biology-20edf18611a8">Computational Biology</a>{' '}
-        at Cornell. <a href="https://eship.cornell.edu/life-sciences-technology-innovation-fellowship-cohort-2024-25/">Life Sciences Technology Innovation Fellow</a>{' '} and <a href="https://cvg.cornell.edu/scholars.php">Cornell CVG Distinguished Scholar</a>. {' '}
+        <a href="https://medium.com/@CompXBio/what-is-computational-biology-20edf18611a8">Computational Biology</a>,{' '}
+        <a href="https://eship.cornell.edu/life-sciences-technology-innovation-fellowship-cohort-2024-25/">Life Sciences Technology Innovation Fellow</a>,{' '}
+        and <a href="https://cvg.cornell.edu/scholars.php">CVG Distinguished Scholar</a>{' '} at Cornell University.
       </p>
       <p>
         Ever since I laid my eyes upon the nature, my gaze has been transfixed
